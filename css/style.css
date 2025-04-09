@@ -30,6 +30,13 @@ body {
   border-radius: 10px;
 }
 
+.card img {
+  width: 100%;
+  max-width: 250px;
+  margin: 20px auto;
+  border-radius: 10px;
+}
+
 .card .signature {
   margin-top: 30px;
   font-style: italic;
